@@ -100,7 +100,7 @@ end
 peaksnr=zeros;
 snr=zeros;
 for i=1:9
-    [peaksnr(i), snr(i)] = psnr(h(:,:,i+1), h(:,:,1));
+    [peaksnr(i), snr(i)] = psnr(h(:,:,i+1), h(:,:,11));
 end
 
 save final.mat h main_imgs peaksnr snr str;
