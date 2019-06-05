@@ -1,5 +1,5 @@
 # Image-Watermarking-Matlab
-## The main goal of the project is to check the robustness of the spatial watermarking scheme.
+## The main goal of the project is to check the robustness of the spatial bit manipulation watermarking scheme.
 
 To describe the procedure briefly:
 
